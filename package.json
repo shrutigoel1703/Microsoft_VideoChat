@@ -1,5 +1,5 @@
 {
-	"name": "talk",
+	"name": "Video_chat",
 	"version": "0.0.1",
 	"description": "A free video call app for the web.",
 	"main": "server.js",
@@ -11,6 +11,7 @@
 		"socket.io",
 		"video"
 	],
+	
 	"dependencies": {
 		"express": "^4.17.1",
 		"heroku": "^7.56.0",
