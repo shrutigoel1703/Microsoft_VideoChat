@@ -3,7 +3,7 @@
 ### Video_Chat
 It is a free video calling app build using WebRTC to achieve peer-to-peer audio,video and chat sharing.
 
-##Features
+### Features
 * Allows 2 people to connect on video call
 * Allows Turning the mic on and off
 * Allows Turning the video on and off
@@ -41,9 +41,10 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ### Builds and Runs this app locally
+...
 $ npm install
 $ npm start
-
+...
 
 ## Deploying 
 I have used heroku to deploy this app.
