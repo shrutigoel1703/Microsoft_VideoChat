@@ -21,7 +21,7 @@ Project is created with:
 * Heroku: 7.56.0
 * Nodemon: 2.0.12
 * socket.io: 4.0.1
-* vue: 2.6.1"
+* vue: 2.6.1
 
 
 ## Directory Structure
@@ -42,8 +42,8 @@ To run this project, install it locally using npm:
 
 ### Builds and Runs this app locally
 ...
-$ npm install
-$ npm start
+$npm install
+$npm start
 ...
 
 ## Deploying 
