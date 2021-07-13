@@ -41,10 +41,9 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ##### Builds and Runs this app locally
-,,,
-$npm install
-$npm start
-,,,
+<em> $ npm instal </em>l<br>
+<em> $ npm start /<em>
+
 
 ## Deploying 
 I have used heroku to deploy this app.<br>
