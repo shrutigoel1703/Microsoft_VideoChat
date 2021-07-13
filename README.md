@@ -3,7 +3,7 @@
 ### Video_Chat
 It is a free video calling app build using WebRTC to achieve peer-to-peer audio, video and chat sharing.
 
-<img width="200" alt="Screen Shot 2021-07-13 at 7 40 11 pm" src="https://user-images.githubusercontent.com/73400318/125466929-d29df46d-b706-4a12-bdf0-16695fe114de.png">
+<img width="700" alt="Screen Shot 2021-07-13 at 7 40 11 pm" src="https://user-images.githubusercontent.com/73400318/125466929-d29df46d-b706-4a12-bdf0-16695fe114de.png">
 
 
 ### Features
