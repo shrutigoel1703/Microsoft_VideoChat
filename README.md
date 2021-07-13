@@ -41,8 +41,8 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ##### Builds and Runs this app locally
- $ npm install 
-   npm start
+     $ npm install 
+     $ npm start
 
 
 ## Deploying 
