@@ -40,14 +40,14 @@ Project is created with:
 ## Setup
 To run this project, install it locally using npm:
 
-### Builds and Runs this app locally
-...
+##### Builds and Runs this app locally
+,,,
 $npm install
 $npm start
-...
+,,,
 
 ## Deploying 
-I have used heroku to deploy this app.
+I have used heroku to deploy this app.<br>
 You can find the link of the deployed app below:
 * https://intense-fortress-55625.herokuapp.com/qtwi7x
 * https://intense-fortress-55625.herokuapp.com/w4bw5e
