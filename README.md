@@ -48,9 +48,8 @@ To run this project, install it locally using npm:
 ## Deploying 
 I have used heroku to deploy this app.<br>
 You can find the link of the deployed app below:
-* https://intense-fortress-55625.herokuapp.com/qtwi7x
 * https://intense-fortress-55625.herokuapp.com/w4bw5e
-* https://intense-fortress-55625.herokuapp.com/i8omth
+
 
 
 ## Video Demo
