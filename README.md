@@ -55,4 +55,4 @@ You can find the link of the deployed app below:
 
 ## Video Demo
 Here is the link to a video demo showing how the app works:
-* https://drive.google.com/file/d/1QtSjLq8Sk5dAK9fIPadwR1nx1j79mtOj/view?usp=sharing
+* https://drive.google.com/file/d/1zTs2BTVEHkWI2xAHjddYPnz5h8GuHGe3/view?usp=sharing
